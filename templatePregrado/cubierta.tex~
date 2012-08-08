@@ -1,0 +1,20 @@
+% Rellenar con la informacion personal y del trabajo
+
+\titulo{Claves XML: Una Implementaci\'on de Algoritmos de Implicaci\'on y Validaci\'on}
+
+\autor{Emir Fernando Mu\~noz Jim\'enez}
+\email{emir.munozj@usach.cl}
+\telefono{8752 9608}
+\run{16.269.030\-2}
+\annoingreso{2009}
+
+\fecha{Lunes}{30}{Mayo}{2011}
+
+\director{Dr.\ Mauricio Mar\'in}
+\codirector{Dr.\ Flavio Ferrarotti}
+
+\ciudad{Santiago}
+\pais{Chile}
+
+\makecubierta
+

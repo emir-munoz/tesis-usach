@@ -1,0 +1,55 @@
+\documentclass[logo,dosdirectores,civil]{tesis-pregrado}
+%opciones: logo,dosdirectores,civil,ejecucion,propuesta,txfonts
+\keywords{XML; Key Implication}
+\begin{document}
+\baselineskip 23pt
+% ----------------------------------------------------------
+% ----------- PARTE INICIAL --------------------------------
+\thispagestyle{empty}
+\include{cubierta}
+% \thispagestyle{empty}
+% \include{caratula}
+% \makecopyright
+% ----------------------------------------------------------
+% ----------- PRIMERA PARTE --------------------------------
+\frontmatter
+% ### Resumen e Indices ####
+\include{chapters/gracias}
+\include{chapters/dedicatoria}
+\include{chapters/abstract}
+\pagestyle{fancy}
+\fancyhead[L]{\slshape \leftmark}
+\fancyhead[C]{}
+\fancyhead[R]{\thepage}
+\tableofcontents        %% Indice general
+\listoffigures          %% Indice de figuras
+\listoftables           %% Indice de tablas
+\listofalgorithms       %% Indice de algoritmos
+% ----------------------------------------------------------
+% ----------- SEGUNDA PARTE --------------------------------
+\mainmatter
+% ### Configuración del header ###
+\pagestyle{fancy}
+\fancyhead[L]{\slshape \leftmark}
+\fancyhead[C]{}
+\fancyhead[R]{\thepage}
+\pagenumbering{arabic}
+% ### Capitulos de la tesis ###
+\include{chapters/1-intro}
+\include{chapters/2-preliminares}
+% ----------------------------------------------------------
+% ----------- TERCERA PARTE --------------------------------
+% \backmatter %Elimina la numeración
+% ### Bibliografía de este documento ###
+\bibliographystyle{apa-good}
+\bibliography{referencias}
+% ----------------------------------------------------------
+% ----------- CUARTA PARTE ---------------------------------
+\appendix
+\addappheadtotoc %agregar Apéndice al índice
+% \noappendicestocpagenum %quitar número de páginas a los apéndices
+% ### ANEXOS ###
+% \include{chapters/anexo-manual-1} % Manuales de Usuario
+% \include{chapters/anexo-codigo-1} % Código fuente
+\end{document}
+%\\end
