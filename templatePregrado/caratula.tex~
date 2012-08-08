@@ -4,16 +4,20 @@
 
 \autor{Emir Fernando Mu\~noz Jim\'enez}
 \email{emir.munozj@usach.cl}
-\telefono{+569 8752 9608}
+\telefono{8752 9608}
 \run{16.269.030\-2}
 \annoingreso{2009}
 
 \fecha{Lunes}{30}{Mayo}{2011}
 
-\profesorguia{Dr.\ Mauricio Mar\'in}
-\profesorcoguia{Dr.\ Flavio Ferrarotti}
+\director{Dr.\ Mauricio Mar\'in}
+\codirector{Dr.\ Flavio Ferrarotti}
+\regular{Dr.\ Mauricio Solar}
+\externo{Dr.\ Jorge Pérez}
+\presidente{Dr.\ Jorge Pérez}
 
 \ciudad{Santiago}
 \pais{Chile}
 
-\makecubierta
+\makecaratula
+

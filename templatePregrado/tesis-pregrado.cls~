@@ -288,8 +288,8 @@
 \titleformat{\chapter}
 {\bfseries\Large\vspace*{-2.0cm}} %Formato título
 { % Contenido de la etiqueta
-	\filright
-	\Large\MakeUppercase\chaptertitlename\ \thechapter.\ 
+  \filright
+  \Large\MakeUppercase\chaptertitlename\ \thechapter.\ 
 } %Contenido de la etiqueta
 {0pt} % espacio mínimo entre etiqueta y cuerpo
 {\filright\MakeUppercase} %código que precede al cuerpo del título
