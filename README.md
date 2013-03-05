@@ -1,6 +1,6 @@
-# Formato memoria USACH
+# Template LaTex para la presentaci&oacute;n de tesis en la Universidad de Santiago de Chile (USACH)
 
-Formato para la presentaci&oacute;n de la propuesta y trabajo final de memoria, para Ingenier&iacute;a Civil y Ejecuci&oacute;n.
+Formato v&aacute;lido para la presentaci&oacute;n de propuesta y trabajo final de tesis, para pregrado---Ingenier&iacute;a Civil y Ejecuci&oacute;n---y postgrado---Doctorado y Mag&iacute;ster en Ingenier&iacute;a Inform&aacute;tica.
 
 ## Author
 
