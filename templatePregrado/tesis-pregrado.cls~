@@ -419,7 +419,7 @@
 \iflogo
 	\vspace*{-0.5cm}
 	\begin{picture}(18,4)(0,40)
-		\put(380,-7){\includegraphics[scale=.25]{./images/LogoUsach.pdf}}
+		\put(380,-7){\includegraphics[scale=.25]{./images/LogoUsach}}
 	\end{picture}
 \fi
 
